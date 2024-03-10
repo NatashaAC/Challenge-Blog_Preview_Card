@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor Solution -> https://www.frontendmentor.io/solutions/blog-preview-plN6xwkUCu
+- Live Site -> https://natashaac.github.io/Challenge-Blog_Preview_Card/
 
 ## My process
 
